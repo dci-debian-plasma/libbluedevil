@@ -76,4 +76,3 @@ see `/usr/share/common-licenses/LGPL-2'.
 
     The bluez documentation with unclear licencing has been removed from the
     upstream tarball to generate the DFSG compliant package.
-
