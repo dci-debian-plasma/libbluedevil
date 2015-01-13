@@ -1,5 +1,4 @@
 #!/usr/bin/make -f
-# -*- makefile -*-
 
-%:
-	dh $@ --parallel --buildsystem=cmake
+include /usr/share/pkg-kde-tools/qt-kde-team/3/debian-qt-kde.mk
+
