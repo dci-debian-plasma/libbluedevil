@@ -1,8 +1,12 @@
 libbluedevil (4:5.1.95-0ubuntu1) UNRELEASED; urgency=medium
 
+  [ Paulo Dias ]
   * First release for KF5
 
- -- Paulo Dias <paulo.miguel.dias@gmail.com>  Mon, 12 Jan 2015 14:03:07 -0200
+  [ Jonathan Riddell ]
+  * New upstream beta release
+
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Wed, 14 Jan 2015 13:25:46 +0100
 
 libbluedevil (2.0~rc1-6-g7bb223c-2) unstable; urgency=medium
 
