@@ -1,4 +1,4 @@
-libbluedevil (4:5.2.0-0ubuntu1) UNRELEASED; urgency=medium
+libbluedevil (4:5.2.0-1~) UNRELEASED; urgency=medium
 
   [ Paulo Dias ]
   * First release for KF5
@@ -9,7 +9,10 @@ libbluedevil (4:5.2.0-0ubuntu1) UNRELEASED; urgency=medium
   [ Harald Sitter ]
   * New upstream release
 
- -- Harald Sitter <sitter@kde.org>  Mon, 26 Jan 2015 13:56:25 +0100
+  [ Maximiliano Curia ]
+  * Prepare initial Debian release.
+
+ -- Maximiliano Curia <maxy@debian.org>  Sat, 07 Feb 2015 10:58:29 +0100
 
 libbluedevil (2.0~rc1-6-g7bb223c-2) unstable; urgency=medium
 
