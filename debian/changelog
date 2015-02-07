@@ -17,6 +17,7 @@ libbluedevil (4:5.2.0-1~) UNRELEASED; urgency=medium
   * Update watch file.
   * Update copyright information.
   * Update install files.
+  * Add basic autopkgtests support.
 
  -- Maximiliano Curia <maxy@debian.org>  Sat, 07 Feb 2015 10:58:29 +0100
 
