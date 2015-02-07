@@ -1,3 +1,2 @@
-# Compulsory line, this is a version 3 file
 version=3
-ftp://ftp.kde.org/pub/kde/stable/libbluedevil/([\d.]+)/src/libbluedevil-([\d.]+).tar.bz2
+http://download.kde.org/stable/plasma/([\d.]+)/libbluedevil-([\d.]+).tar.(?:bz2|xz)
