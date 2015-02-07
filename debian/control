@@ -24,7 +24,7 @@ Vcs-Browser: http://anonscm.debian.org/cgit/pkg-kde/plasma/libbluedevil.git
 Package: libbluedevil-dev
 Section: libdevel
 Architecture: linux-any
-Depends: libbluedevil5 (= ${binary:Version}), ${misc:Depends}
+Depends: libbluedevil5 (= ${binary:Version}), qtbase5-dev, ${misc:Depends}
 Description: development files for libbluedevil
  This package provides all the necessary development headers for building
  software that uses the libbluedevil library.
