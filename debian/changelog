@@ -1,3 +1,9 @@
+libbluedevil (4:5.2.1-0ubuntu1) UNRELEASED; urgency=medium
+
+  * New upstream release 
+
+ -- Scarlett Clark <sgclark@kubuntu.org>  Thu, 19 Feb 2015 14:26:57 -0800
+
 libbluedevil (4:5.2.0-0ubuntu1) UNRELEASED; urgency=medium
 
   [ Paulo Dias ]
