@@ -1,3 +1,15 @@
+libbluedevil (4:5.2.2-0ubuntu3) wily; urgency=medium
+
+  * Update symbols list
+
+ -- Sebastien Bacher <seb128@ubuntu.com>  Thu, 13 Aug 2015 18:06:45 +0200
+
+libbluedevil (4:5.2.2-0ubuntu2) wily; urgency=medium
+
+  * Reupload bluz5 version which was uploaded and deleted in vivid
+
+ -- Sebastien Bacher <seb128@ubuntu.com>  Thu, 13 Aug 2015 18:00:29 +0200
+
 libbluedevil (4:5.2.2-0ubuntu1) vivid; urgency=medium
 
   * New upstream release 

@@ -1,7 +1,5 @@
 # SymbolsHelper-Confirmed: 5.1.95 amd64
 libbluedevil.so.5 libbluedevil5 #MINVER#
- _ZN10QDBusErrorD1Ev@Base 5.1.95
- _ZN10QDBusErrorD2Ev@Base 5.1.95
  _ZN9BlueDevil11classToTypeEj@Base 5.1.95
  _ZN9BlueDevil12stringToTypeERK7QString@Base 5.1.95
  _ZN9BlueDevil6Device10disconnectEv@Base 5.1.95
